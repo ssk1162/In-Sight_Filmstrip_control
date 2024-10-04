@@ -981,7 +981,7 @@ namespace WindowsFormsApp2
             // 
             // btnFileConnect
             // 
-            this.btnFileConnect.Location = new System.Drawing.Point(1004, 118);
+            this.btnFileConnect.Location = new System.Drawing.Point(1003, 118);
             this.btnFileConnect.Name = "btnFileConnect";
             this.btnFileConnect.Size = new System.Drawing.Size(125, 39);
             this.btnFileConnect.TabIndex = 3;
